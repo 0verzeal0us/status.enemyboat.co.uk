@@ -1,7 +1,7 @@
 [
   {
     "name": "EBS Forum",
-    "url": "https://www.enemyboat.co.uk",
+    "url": "www.enemyboat.co.uk",
     "icon": "https://www.enemyboat.co.uk/favicon.ico",
     "slug": "ebs-forum",
     "status": "down",
@@ -10,29 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 61,
-    "timeDay": 61,
-    "timeWeek": 61,
-    "timeMonth": 61,
-    "timeYear": 61,
-    "dailyMinutesDown": {}
-  },
-  {
-    "name": "EBS Insurgency Server",
-    "url": "87.98.157.13",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "ebs-insurgency-server",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "time": 75,
+    "timeDay": 75,
+    "timeWeek": 75,
+    "timeMonth": 75,
+    "timeYear": 75,
     "dailyMinutesDown": {}
   }
 ]
