@@ -5,12 +5,8 @@ assignees: 0verzeal0us
 
 sites:
   - name: EBS Forum
-    url: https://www.enemyboat.co.uk
+    url: www.enemyboat.co.uk
     icon: https://www.enemyboat.co.uk/favicon.ico
-  - name: EBS Insurgency Server
-    check: "tcp-ping"
-    url: 87.98.157.13
-    port: 27131
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -26,7 +22,7 @@ status-website:
       href: /
     - title: Forum
       href: https://www.enemyboat.co.uk
-    - title: Insurgency Status
+    - title: Insurgency Server Status
       href: https://insurgencystatus.enemyboat.co.uk
   theme: night
 # Upptime also supports notifications, assigning issues, and more
