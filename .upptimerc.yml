@@ -5,8 +5,10 @@ assignees: 0verzeal0us
 
 sites:
   - name: EBS Forum
-    url: www.enemyboat.co.uk
+    url: https://www.enemyboat.co.uk
     icon: https://www.enemyboat.co.uk/favicon.ico
+    expectedStatusCodes:
+      - 403
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -14,7 +16,7 @@ status-website:
   cname: status.enemyboat.co.uk
   # baseUrl: /your-repo-name
   logoUrl: https://www.enemyboat.co.uk/favicon.ico
-  name: Enemy Boat Spotted Server Status Page
+  name: Enemy Boat Spotted Forum Status
   introTitle: "**Enemy Boat Spotted**"
   introMessage: "A friendly gaming community since 2007"
   navbar:
