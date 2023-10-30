@@ -1,22 +1,22 @@
 [
   {
     "name": "Enemy Boat Spotted Forum",
-    "url": "https://enemyboat.co.uk",
-    "icon": "https://enemyboat.co.uk/favicon.ico",
+    "url": "https://www.enemyboat.co.uk",
+    "icon": "https://www.enemyboat.co.uk/favicon.ico",
     "slug": "enemy-boat-spotted-forum",
     "status": "down",
-    "uptime": "2.07%",
-    "uptimeDay": "2.07%",
-    "uptimeWeek": "2.07%",
-    "uptimeMonth": "2.07%",
-    "uptimeYear": "2.07%",
-    "time": 165,
-    "timeDay": 165,
-    "timeWeek": 165,
-    "timeMonth": 165,
-    "timeYear": 165,
+    "uptime": "0.14%",
+    "uptimeDay": "0.14%",
+    "uptimeWeek": "0.14%",
+    "uptimeMonth": "0.14%",
+    "uptimeYear": "0.14%",
+    "time": 152,
+    "timeDay": 152,
+    "timeWeek": 152,
+    "timeMonth": 152,
+    "timeYear": 152,
     "dailyMinutesDown": {
-      "2023-10-30": 0
+      "2023-10-30": 7
     }
   }
 ]
