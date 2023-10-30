@@ -4,7 +4,7 @@ repo: upptime # The name of this repository
 assignees: 0verzeal0us
 
 sites:
-  - name: EBS Forum
+  - name: Forum
     url: https://www.enemyboat.co.uk
     icon: https://www.enemyboat.co.uk/favicon.ico
     expectedStatusCodes:
