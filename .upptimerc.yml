@@ -10,14 +10,10 @@ sites:
     assignees: 0verzeal0us
 #   expectedStatusCodes:
 #     - 403
-  - name: Insurgency Server Status
-    check: "tcp-ping"
-    url: 87.98.157.13
-    port: 27131
-  - name: Google DNS 2
-    check: "tcp-ping"
-    url: 87.98.157.13
-    port: 7777   
+#  - name: Insurgency Server Status
+#    check: "tcp-ping"
+#    url: 87.98.157.13
+#    port: 27131
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -29,12 +25,10 @@ status-website:
   introTitle: "**Enemy Boat Spotted**"
   introMessage: "A friendly gaming community since 2007"
   navbar:
-    - title: Status
-      href: /
     - title: Forum
       href: https://www.enemyboat.co.uk
-#    - title: Insurgency Server Status
-#      href: https://insurgencystatus.enemyboat.co.uk
+    - title: Insurgency Server Status
+      href: https://insurgencystatus.enemyboat.co.uk
   theme: night
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
