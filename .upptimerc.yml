@@ -1,14 +1,19 @@
 # Change these first
 owner: 0verzeal0us # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
-assignees: 0verzeal0us
+
 
 sites:
   - name: Forum
     url: https://www.enemyboat.co.uk
     icon: https://www.enemyboat.co.uk/favicon.ico
+    assignees: 0verzeal0us
 #   expectedStatusCodes:
 #     - 403
+  - name: Insurgency Server Status
+    check: "tcp-ping"
+    url: 87.98.157.13
+    port: 27131
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -24,8 +29,8 @@ status-website:
       href: /
     - title: Forum
       href: https://www.enemyboat.co.uk
-    - title: Insurgency Server Status
-      href: https://insurgencystatus.enemyboat.co.uk
+#    - title: Insurgency Server Status
+#      href: https://insurgencystatus.enemyboat.co.uk
   theme: night
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
