@@ -14,6 +14,10 @@ sites:
     check: "tcp-ping"
     url: 87.98.157.13
     port: 27131
+  - name: Google DNS 2
+    check: "tcp-ping"
+    url: 87.98.157.13
+    port: 7777   
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
