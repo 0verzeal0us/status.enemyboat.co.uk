@@ -5,16 +5,16 @@
     "icon": "https://www.enemyboat.co.uk/favicon.ico",
     "slug": "forum",
     "status": "up",
-    "uptime": "99.82%",
+    "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.76%",
-    "uptimeYear": "99.82%",
-    "time": 653,
-    "timeDay": 639,
-    "timeWeek": 782,
-    "timeMonth": 684,
-    "timeYear": 653,
+    "uptimeYear": "99.83%",
+    "time": 654,
+    "timeDay": 660,
+    "timeWeek": 745,
+    "timeMonth": 681,
+    "timeYear": 654,
     "dailyMinutesDown": {
       "2023-11-12": 104
     }
