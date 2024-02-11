@@ -29,6 +29,6 @@ status-website:
       href: https://www.enemyboat.co.uk
     - title: Insurgency Server Status
       href: https://insurgencystatus.enemyboat.co.uk
-  theme: night
+  theme: light
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
