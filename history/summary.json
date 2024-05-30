@@ -4,19 +4,19 @@
     "url": "https://www.enemyboat.co.uk",
     "icon": "https://www.enemyboat.co.uk/favicon.ico",
     "slug": "forum",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 531,
-    "timeDay": 630,
-    "timeWeek": 723,
-    "timeMonth": 717,
-    "timeYear": 531,
+    "time": 652,
+    "timeDay": 14751,
+    "timeWeek": 4241,
+    "timeMonth": 1625,
+    "timeYear": 652,
     "dailyMinutesDown": {
-      "2024-05-30": 0
+      "2024-05-30": 9
     }
   }
 ]
