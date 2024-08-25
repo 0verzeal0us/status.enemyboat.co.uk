@@ -4,7 +4,7 @@
     "url": "https://www.enemyboat.co.uk",
     "icon": "https://www.enemyboat.co.uk/favicon.ico",
     "slug": "forum",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 613,
     "timeYear": 646,
     "dailyMinutesDown": {
+      "2024-08-25": 0,
       "2024-06-03": 328,
       "2024-06-02": 50
     }
