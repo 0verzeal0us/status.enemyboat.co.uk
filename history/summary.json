@@ -6,14 +6,14 @@
     "slug": "forum",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "98.87%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 686,
-    "timeDay": 548,
-    "timeWeek": 600,
-    "timeMonth": 1047,
+    "timeDay": 628,
+    "timeWeek": 603,
+    "timeMonth": 1043,
     "timeYear": 686,
     "dailyMinutesDown": {
       "2024-09-12": 16
