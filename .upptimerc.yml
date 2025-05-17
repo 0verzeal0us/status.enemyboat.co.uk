@@ -7,10 +7,12 @@ sites:
   - name: Forum
     url: https://www.enemyboat.co.uk
     icon: https://www.enemyboat.co.uk/favicon.ico
+    expectedStatusCodes:
+      - 403
+      - 521
 assignees: 
   - 0verzeal0us
-#   expectedStatusCodes:
-#     - 403
+
 #  - name: Insurgency Server Status
 #    check: "tcp-ping"
 #    url: 87.98.157.13
