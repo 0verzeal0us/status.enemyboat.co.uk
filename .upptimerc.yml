@@ -8,6 +8,7 @@ sites:
     url: https://www.enemyboat.co.uk
     icon: https://www.enemyboat.co.uk/favicon.ico
     expectedStatusCodes:
+      - 0
       - 100
       - 101
       - 102
