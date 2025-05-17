@@ -8,6 +8,20 @@ sites:
     url: https://www.enemyboat.co.uk
     icon: https://www.enemyboat.co.uk/favicon.ico
     expectedStatusCodes:
+      - 100
+      - 101
+      - 102
+      - 103
+      - 200
+      - 201
+      - 202
+      - 203
+      - 204
+      - 205
+      - 206
+      - 207
+      - 208 
+      - 226
       - 403
       - 521
 assignees: 
